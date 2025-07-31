@@ -40,5 +40,5 @@ document.write("Variable must begin with a letter, $ or _ . For example: $sufyan
 
 document.write("Variable names are case sensitive <br>")
 
-document.write("Variable names should not be JS keyword")
+document.write("Variable names should not be JS keyword <hr>")
 

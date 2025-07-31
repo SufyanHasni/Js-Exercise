@@ -18,7 +18,7 @@ var birthYear = 2007;
 
 document.write( "<br>" + "My birth year is" + " " + birthYear + "<br>" );
 
-document.write("Data Type of my declared variable is number <br> <br> <br>");
+document.write("Data Type of my declared variable is number <br> <hr>");
 
 //  Question 4 !
 var user_name = "Sufyan hasni";
@@ -27,7 +27,7 @@ var product_title = "T-Shirt(s)";
 
 var quantity = 10;
 
-document.write(user_name + " " + "Ordered" + " " + quantity + " " + product_title + " " + " on Saylani Clothing Store");
+document.write(user_name + " " + "Ordered" + " " + quantity + " " + product_title + " " + " on Saylani Clothing Store <hr>");
 
 
 

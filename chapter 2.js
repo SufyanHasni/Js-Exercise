@@ -43,4 +43,11 @@ alert("I am Trying to learn from the Book " + book)
 
 // question 8 !
 
-document.write ("yah! i can write HTML content through JavaScript")
+document.write ("yah! i can write HTML content through JavaScript ")
+
+// question 9 !
+
+var design = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
+alert(design);
+
+document.write("<hr>")
